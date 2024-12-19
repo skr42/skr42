@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skr42
 - 👀 I’m interested in Backend Development, AI/ML, Software Developer
-- 🌱 I’m currently learning Advanced Django, Kubeenetes , Docker , Node.js , Express.js, NoSQl, SQL and System Design
+- 🌱 I’m currently learning Advanced Django, Kubernetes , Docker , Node.js , Express.js, NoSQl, SQL and System Design
 - 💞️ I’m looking to collaborate on Open-source projects and innovative web applications
 - 📫 How to reach me sujeetkrgupta9122@gmail.com
 - 😄 Pronouns: He/Him
